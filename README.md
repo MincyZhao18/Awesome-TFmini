@@ -16,6 +16,7 @@ TFmini information Collection.
 - [TFmini data download](http://benewake.com/en/down.html).  
 
 - [Buy from RobotShop](https://www.robotshop.com/en/benewake-tfmini-micro-lidar-module-12-m.html), or directly contact [Benewake](http://benewake.com/en/index.html).  
+- [Buy from Adafruit](https://www.adafruit.com/product/3978), or directly contact [Benewake](http://benewake.com/en/index.html).  
 
 
 ## Examples
